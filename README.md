@@ -13,15 +13,8 @@ Certificate can be viewed [here](https://www.hackerrank.com/certificates/4fd03ca
 
 ## Follow me
 
-<a href="https://www.linkedin.com/in/azhark/">
-  <img align="left" alt="Azhar's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://instagram.com/officialazhark">
-  <img align="left" alt="Azhar Khan | Twitter" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/91a804aef38847ce0d70cc4f796da8931b2f1f19/images/svg/instagram.svg" />
-</a>
-<a href="https://www.youtube.com/gothamcoding">
-  <img align="left" alt="Gotham Coding's YouTube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
-</a>
+
+
 
 <br/>
 
